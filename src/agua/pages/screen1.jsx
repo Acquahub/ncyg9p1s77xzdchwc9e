@@ -10,7 +10,7 @@ function Screen1() {
     return(
         <div className={styles["Screen1"]}>
             
-<div id="layer-1-c12d9b1921a44bf59f41915f05041ba1" className={styles["layer-1-c12d9b1921a44bf59f41915f05041ba1"]} >
+<div id="layer-1-c12d9b1921a44bf59f41915f05041ba1" className={styles["layer-1-c12d9b1921a44bf59f41915f05041ba1"]+ ' layer-1-c12d9b1921a44bf59f41915f05041ba1-orientation'} >
 <div id="layer-8-db2e0a389f4d4d4ea652d4cea066830e" className={styles["layer-8-db2e0a389f4d4d4ea652d4cea066830e"]} >
 <img id="imageview-2-81e6b5d0151f4ac0a91cfce1df1b9691" className={styles["imageview-2-81e6b5d0151f4ac0a91cfce1df1b9691"]} alt="imageview-2" src='https://i.ibb.co/5ndGgWv/image-43.png' />
 </div>

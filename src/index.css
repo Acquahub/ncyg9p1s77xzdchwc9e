@@ -1,7 +1,43 @@
 :root {
+	--headerPadding: 25px;
+	--size: unset;
+	--orientation: row;
+	--borderRadius: 15px;
+	--pinkColor: #F8BBD0;
+	--imageSizeV: 150px;
+
+}
+
+.layer-1-c12d9b1921a44bf59f41915f05041ba1-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+@media (max-width: 480px) {:root{
+	--Orientation: column;
+	--HeaderPadding: 0px;
 	--PinkColor: #F8BBD0;
 	--BorderRadius: 15px;
+	--newVariable5: 0px;
 
+}  
+}
+@media (min-width: 481px) {:root{
+	--PinkColor: #F8BBD0;
+	--BorderRadius: 15px;
+	--Orientation: row;
+	--HeaderPadding: 25px;
+	--newVariable5: 0;
+
+}  
+}
+@media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
+	--Orientation: row;
+	--PinkColor: #F8BBD0;
+	--BorderRadius: 15px;
+	--HeaderPadding: 25px;
+	--newVariable5: 0px;
+
+}  
 }
  
             
