@@ -17,7 +17,7 @@ padding-left: 50px;
 padding-right: 50px;
 margin-bottom: 25px;
 box-sizing: border-box;
-background-color: transparent;
+background-color: #FAFAFA;
 height: 100px;min-height: 100px;
 align-self: stretch;
     
@@ -56,13 +56,14 @@ width: 300px;min-width: 300px;
 .text-4-124f8f284a144e7e823e33fcff3e3998{
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
-font-size: 18px;
+font-size: 28px;
+font-weight: bold;
 
-
-color: #000000;
 height: fit-content;
 width: fit-content;
-    
+    background: var(--PinkColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 .layer-10-61020b12b8704f05bcab2daffaa03070{
     display: flex;
@@ -83,10 +84,14 @@ width: 300px;min-width: 300px;
 justify-content: flex-start;
 align-items: flex-start;
 
-background-color: transparent;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+box-sizing: border-box;
 height: fit-content;
 width: fit-content;
-    
+    background: var(--PinkColor); 
 }
 .text-5-6eefe1fe64b6486293cbbf652aa609d6{
      
@@ -106,10 +111,16 @@ width: fit-content;
 justify-content: flex-start;
 align-items: flex-start;
 
-background-color: transparent;
+box-shadow: 0px 0px 0px var(--PinkColor);
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+box-sizing: border-box;
 height: fit-content;
 width: fit-content;
-    
+    background: var(--PinkColor); 
+box-shadow: 0px 0px 0px var(--PinkColor); 
 }
 .text-6-a44e649dead545cf95b4aa735122b28b{
      
@@ -129,10 +140,14 @@ width: fit-content;
 justify-content: flex-start;
 align-items: flex-start;
 
-background-color: transparent;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+box-sizing: border-box;
 height: fit-content;
 width: fit-content;
-    
+    background: var(--PinkColor); 
 }
 .text-7-6dcd7e3819a94601b0f512ef2a2c0f49{
      
@@ -222,8 +237,7 @@ justify-content: center;
 align-items: center;
 border-radius: 0.8782201405152225vh;
 box-shadow: 0px 0px 1px #9E9E9E;
-background-color: #FFFFFF;
 height: fit-content;
 width: fit-content;
-    
+    background: var(--PinkColor); 
 }

@@ -11,21 +11,21 @@ function Screen2() {
         <div className={styles["Screen2"]}>
             
 <div id="layer-1-dbbe7b3cc8e74e4ab39eb087c49f966b" className={styles["layer-1-dbbe7b3cc8e74e4ab39eb087c49f966b"]} >
-<div id="layer-8-eded62c6f08c4b90adc80d852cdbecf5" className={styles["layer-8-eded62c6f08c4b90adc80d852cdbecf5"]} >
+<Link to="/Screen1" className={styles["layer-8-eded62c6f08c4b90adc80d852cdbecf5"]}><div id="layer-8-eded62c6f08c4b90adc80d852cdbecf5" className={styles["layer-8-eded62c6f08c4b90adc80d852cdbecf5"]} >
 <img id="imageview-2-6dc5354d13014cae991a5101776d6db2" className={styles["imageview-2-6dc5354d13014cae991a5101776d6db2"]} alt="imageview-2" src='https://i.ibb.co/5ndGgWv/image-43.png' />
-</div>
+</div></Link>
 <div id="layer-9-09c4b197aa604dc59d8dc9361c3d4ce5" className={styles["layer-9-09c4b197aa604dc59d8dc9361c3d4ce5"]} >
-<div id="text-4-7c88bb0b08b44b788325f3e64fcb31ab" className={styles["text-4-7c88bb0b08b44b788325f3e64fcb31ab"]} >[Text]</div>
+<Link to="/Screen1" className={styles["text-4-7c88bb0b08b44b788325f3e64fcb31ab"]}><div id="text-4-7c88bb0b08b44b788325f3e64fcb31ab" className={styles["text-4-7c88bb0b08b44b788325f3e64fcb31ab"]} >Catatumbo Editorial</div></Link>
 </div>
 <div id="layer-10-50d8bd865dca423d95830f67cc0d2e07" className={styles["layer-10-50d8bd865dca423d95830f67cc0d2e07"]} >
 <div id="layer-11-c4b6673d70a34af68be9bd833742322f" className={styles["layer-11-c4b6673d70a34af68be9bd833742322f"]} >
-<div id="text-5-711ab8c5874c44158bbf0916fbbd65ab" className={styles["text-5-711ab8c5874c44158bbf0916fbbd65ab"]} >[Text]</div>
+<div id="text-5-711ab8c5874c44158bbf0916fbbd65ab" className={styles["text-5-711ab8c5874c44158bbf0916fbbd65ab"]} >Nosotros</div>
 </div>
 <div id="layer-12-8909a54e45534dbfb063338eba60afc4" className={styles["layer-12-8909a54e45534dbfb063338eba60afc4"]} >
-<div id="text-6-dffe55572fe24779b2ec49c58aeb13eb" className={styles["text-6-dffe55572fe24779b2ec49c58aeb13eb"]} >[Text]</div>
+<div id="text-6-dffe55572fe24779b2ec49c58aeb13eb" className={styles["text-6-dffe55572fe24779b2ec49c58aeb13eb"]} >Portafolio</div>
 </div>
 <div id="layer-13-008cdda0d1094d6e8931d8034409a1ab" className={styles["layer-13-008cdda0d1094d6e8931d8034409a1ab"]} >
-<div id="text-7-d330097fcb4d42268c92f0312a9c7884" className={styles["text-7-d330097fcb4d42268c92f0312a9c7884"]} >[Text]</div>
+<div id="text-7-d330097fcb4d42268c92f0312a9c7884" className={styles["text-7-d330097fcb4d42268c92f0312a9c7884"]} >Contacto</div>
 </div>
 </div>
 </div>
